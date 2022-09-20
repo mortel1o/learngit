@@ -1,2 +1,2 @@
-##ver 1.
-print("hi")
+##ver 2.
+print("hi2")
