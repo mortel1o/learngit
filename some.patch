@@ -1,0 +1,9 @@
+diff --git a/some.file b/some.file
+index e9363c0..92db7bc 100644
+--- a/some.file
++++ b/some.file
+@@ -3,3 +3,4 @@ edited in web
+ second string..
+ third
+ after stash
++patch line
